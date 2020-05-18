@@ -1,1 +1,1 @@
-The code can be run by firstly running the second cell in order to define the environment, then run the eighth cell (last one).
+The main file is represented by the jupyter notebook. Then, two additional Python files are imported in it. The code can be run by firstly running the second cell in order to define the environment, then run the eighth cell (last one).
